@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\Desktop\\PROYECTOS\\C#\\APP-C#-APIREST-ENTITYFRAMEWORK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A85EE409-4AFC-4074-AA43-E3608EAC07E9}|APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK.csproj|c:\\users\\franc\\desktop\\proyectos\\c#\\app-c#-apirest-entityframework\\apirest-entityframework\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85EE409-4AFC-4074-AA43-E3608EAC07E9}|APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK.csproj|solutionrelative:apirest-entityframework\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85EE409-4AFC-4074-AA43-E3608EAC07E9}|APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK.csproj|c:\\users\\franc\\desktop\\proyectos\\c#\\app-c#-apirest-entityframework\\apirest-entityframework\\controllers\\jugadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85EE409-4AFC-4074-AA43-E3608EAC07E9}|APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK.csproj|solutionrelative:apirest-entityframework\\controllers\\jugadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85EE409-4AFC-4074-AA43-E3608EAC07E9}|APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK.csproj|c:\\users\\franc\\desktop\\proyectos\\c#\\app-c#-apirest-entityframework\\apirest-entityframework\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85EE409-4AFC-4074-AA43-E3608EAC07E9}|APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK.csproj|solutionrelative:apirest-entityframework\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85EE409-4AFC-4074-AA43-E3608EAC07E9}|APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK.csproj|c:\\users\\franc\\desktop\\proyectos\\c#\\app-c#-apirest-entityframework\\apirest-entityframework\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85EE409-4AFC-4074-AA43-E3608EAC07E9}|APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK.csproj|solutionrelative:apirest-entityframework\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85EE409-4AFC-4074-AA43-E3608EAC07E9}|APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK.csproj|c:\\users\\franc\\desktop\\proyectos\\c#\\app-c#-apirest-entityframework\\apirest-entityframework\\tools\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85EE409-4AFC-4074-AA43-E3608EAC07E9}|APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK.csproj|solutionrelative:apirest-entityframework\\tools\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\PROYECTOS\\C#\\APP-C#-APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "APIREST-ENTITYFRAMEWORK\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\PROYECTOS\\C#\\APP-C#-APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK\\AplicationDbContext.cs",
+              "RelativeToolTip": "APIREST-ENTITYFRAMEWORK\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:02:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\PROYECTOS\\C#\\APP-C#-APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK\\Tools\\TokenService.cs",
+              "RelativeDocumentMoniker": "APIREST-ENTITYFRAMEWORK\\Tools\\TokenService.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\PROYECTOS\\C#\\APP-C#-APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK\\Tools\\TokenService.cs",
+              "RelativeToolTip": "APIREST-ENTITYFRAMEWORK\\Tools\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:02:20.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\PROYECTOS\\C#\\APP-C#-APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "APIREST-ENTITYFRAMEWORK\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\PROYECTOS\\C#\\APP-C#-APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "APIREST-ENTITYFRAMEWORK\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:02:38.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquipoController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\PROYECTOS\\C#\\APP-C#-APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK\\Controllers\\EquipoController.cs",
+              "RelativeDocumentMoniker": "APIREST-ENTITYFRAMEWORK\\Controllers\\EquipoController.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\PROYECTOS\\C#\\APP-C#-APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK\\Controllers\\EquipoController.cs",
+              "RelativeToolTip": "APIREST-ENTITYFRAMEWORK\\Controllers\\EquipoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:02:39.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JugadorController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\PROYECTOS\\C#\\APP-C#-APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK\\Controllers\\JugadorController.cs",
+              "RelativeDocumentMoniker": "APIREST-ENTITYFRAMEWORK\\Controllers\\JugadorController.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\PROYECTOS\\C#\\APP-C#-APIREST-ENTITYFRAMEWORK\\APIREST-ENTITYFRAMEWORK\\Controllers\\JugadorController.cs",
+              "RelativeToolTip": "APIREST-ENTITYFRAMEWORK\\Controllers\\JugadorController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:02:39.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

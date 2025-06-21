@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Practica-Api-Rest-Entity.props" />
+</Project>
