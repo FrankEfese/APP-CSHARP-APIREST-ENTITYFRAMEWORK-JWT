@@ -1,4 +1,4 @@
-# <div align="center"> APP-CSHARP-APIREST-ENTITY-FRAMEWORK-JWT-ASYNC</div>
+# <div align="center"> APP-CSHARP - APIREST - ENTITY FRAMEWORK - JWT - ASYNC</div>
 
 <h4 align="center">REST API in C# using Entity Framework with a MySQL database. Database operations are handled asynchronously to improve performance and scalability. Secured endpoints with JWT (JSON Web Tokens) for protected access. Integrated Swagger for interactive documentation and testing, improving usability for developers and clients.</h4>
 
